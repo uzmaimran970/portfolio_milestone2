@@ -5,7 +5,7 @@ import Navbar from "./components/navbar"
 
 import Footer from "./components/Footer"
 import HeroSection from "./components/heroSection";
-import AboutSection from "./components/Aboutsection";
+import AboutSection from "./components/AboutSection";
 import ProjectsSection from "./components/ProjectSection";
 import EmailSection from "./components/EmailSection";
 
